@@ -2,7 +2,10 @@
 <div align="center">
   <img src="https://github.com/snehakb4326/snehakb4326/blob/main/gihubbanner.png" alt="DevOpsShack Banner">
 </div>
-<h3 align="center">Software Developer Skilled in Angular, TypeScript & Modern UI Development</h3>
+<h3 align="center">Passionate Software Developer focused on building responsive, scalable, and user-friendly web applications.
+Continuously learning modern technologies and creating impactful digital experiences.
+</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/snehakb4326/snehakb4326/blob/main/.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehakb4326&label=Profile%20views&color=0e75b6&style=flat" alt="snehakb4326" /> </p>
 
