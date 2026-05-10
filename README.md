@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha K B</h1>
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/snehakb4326/snehakb4326/blob/main/ChatGPT Image May 10, 2026, 07_35_29 PM.png" alt="DevOpsShack Banner">
 </div>
 <h3 align="center">Software Developer Skilled in Angular, TypeScript & Modern UI Development</h3>
 
